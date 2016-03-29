@@ -10,7 +10,7 @@
 
   <header></header>
   <section>
-    http://spacemate.xyz
+    Default Page: http://spacemate.xyz
   </section>
   <footer></footer>
 
